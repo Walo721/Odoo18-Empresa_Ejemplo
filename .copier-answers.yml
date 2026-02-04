@@ -1,0 +1,31 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v9.1.1
+_src_path: gh:Tecnativa/doodba-copier-template
+backup_dst: ""
+cidr_whitelist: null
+domains_prod: {}
+domains_test: {}
+gitlab_url: ""
+odoo_dbfilter: ^prod
+odoo_initial_lang: es_ES
+odoo_listdb: true
+odoo_listdb_staging: true
+odoo_oci_image: ""
+odoo_proxy: ""
+odoo_version: 18.0
+paths_with_crawlers:
+  - /web/image/website
+paths_without_crawlers:
+  - /web
+  - /website/info
+postgres_cidr_whitelist: null
+postgres_dbname: prod
+postgres_exposed: true
+postgres_exposed_port: 5432
+postgres_username: odoo
+postgres_version: "16"
+project_author: NelsonVeraCabrera
+project_license: LGPL-3.0-or-later
+project_name: odoo-18
+smtp_default_from: ""
+smtp_relay_host: ""
