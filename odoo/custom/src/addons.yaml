@@ -1,0 +1,19 @@
+l10n-spain:
+  - "*"
+web:
+  - "*"
+
+mis-builder:
+  - "*"
+
+partner-contact:
+  - "*"
+
+reporting-engine:
+  - "*"
+
+account-financial-reporting:
+  - "*"
+
+server-ux:
+  - "*"
