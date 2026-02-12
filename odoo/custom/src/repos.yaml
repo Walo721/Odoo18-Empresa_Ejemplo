@@ -77,3 +77,12 @@
   target: oca $ODOO_VERSION
   merges:
     - oca $ODOO_VERSION
+
+./account-invoicing:
+  defaults:
+    depth: $DEPTH_DEFAULT
+  remotes:
+    oca: https://github.com/OCA/account-invoicing.git
+  target: oca $ODOO_VERSION
+  merges:
+    - oca $ODOO_VERSION
