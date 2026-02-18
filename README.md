@@ -13,9 +13,7 @@ compras, inventario y facturación.
 
 - [Características](#-características)
 - [Requisitos Previos](#-requisitos-previos)
-- [Instalación & guía](#-instalación)
-- [Estructura del Repositorio](#-estructura-del-repositorio)
-- [Configuración](#-configuración)
+- [Instalación & guía](#-instalación-&-guía)
 
 ## ✨ Características
 
