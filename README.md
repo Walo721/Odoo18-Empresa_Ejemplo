@@ -1,7 +1,6 @@
 # Odoo 18 - Empresa Ejemplo 🚀
 
 ![Odoo](https://img.shields.io/badge/Odoo-18.0-714B67?logo=odoo&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-18.0-714B67?logo=odoo&logoColor=whitered)
 ![License](https://img.shields.io/badge/License-LGPL--3-blue.svg)
 
 Este repositorio contiene la configuración, personalización y módulos personalizados de
